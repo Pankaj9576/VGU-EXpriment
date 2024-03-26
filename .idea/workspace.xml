@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69242bec-a5d3-44d8-b2f8-eb1418306c00" name="Changes" comment="Addition program">
-      <change afterPath="$PROJECT_DIR$/Session-5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session6/Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session6/formetting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session6/list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session-4/Expriment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-4/Expriment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Expriment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Session5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Expriment.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Session5.executor": "Run",
+    "Python.Table.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.formetting.executor": "Run",
+    "Python.list.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,8 +82,27 @@
       <option name="project" value="LOCAL" />
       <updated>1709992398763</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Addition program">
+      <option name="closed" value="true" />
+      <created>1710681696668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710681696668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Addition program" />
